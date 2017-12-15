@@ -2,5 +2,9 @@ welcome to kichen
 kheer
 pasta
 chicken fry.
+beans
+pizza
+panner
+
 Thankyou..!
-do visit again..>!!!!
+done and merging the branches
